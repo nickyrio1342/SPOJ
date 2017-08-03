@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1487776812 source:c:\cpp\stable\main.cpp
+	<iostream>
+	<set>
+	<queue>
+	<vector>
+
+1500870022 source:e:\roadtoapio\cpp\stable\main.cpp
+	<bits/stdc++.h>
+
